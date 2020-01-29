@@ -1,29 +1,4 @@
 
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@travisdowns
-mmistakes /
-minimal-mistakes
-
-6.9k
-121
-6.1k
-
-    10.3k
-
-Code
-Issues 6
-Pull requests 1
-Actions
-Projects 0
-Security
-Insights
-minimal-mistakes/staticman.yml
-@mmistakes mmistakes Update Staticman commit message to include name f9c418c on Aug 10, 2018
-104 lines (87 sloc) 3.67 KB
 # Name of the property. You can have multiple properties with completely
 # different config blocks for different sections of your site.
 # For example, you can have one property to handle comment submission and
