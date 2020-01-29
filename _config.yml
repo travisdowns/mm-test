@@ -119,8 +119,12 @@ tag_archive:
   path: /tags/
 
 repository: travisdowns/mm-test
+
 comments:
   provider: "staticman_v2"
   staticman:
     branch: "master"
     endpoint: https://staticman-travisdownsio.herokuapp.com/v2/entry/
+
+staticman:
+  branch: "master"
