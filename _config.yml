@@ -118,8 +118,9 @@ tag_archive:
   type: liquid
   path: /tags/
 
-repository:
+repository: travisdowns/mm-test
 comments:
-  provider  : "staticman_v2"
+  provider: "staticman_v2"
   staticman:
-    branch    : "master"
+    branch: "master"
+    enpoint: https://staticman-travisdownsio.herokuapp.com/v2/entry
